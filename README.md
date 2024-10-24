@@ -1,6 +1,6 @@
 # 4CBLA00 Group 30 Marc/Mentat optimization plugin
 
-This repository has no documentation or commit history, as it only exists to showcase the source code of the Marc/Mentat optimization plugin used by me to calculate minimal failure loads of the 3D model created during the CBL course. Note that this repository will be deleted exactly **TWO WEEKS** after the due date of the final CBL assignment (the end of the examination period). If for any reason the access to this source code is required past the aforementioned deadline, feel free to contact me via email to resolve this issue.
+This repository has no documentation or commit history, as it only exists to showcase the source code of the Marc/Mentat optimization plugin used by me to calculate minimal failure loads of the 3D model created during the CBL course. Note that this repository will be deleted exactly **TWO WEEKS** after the due date of the final CBL assignment (the end of the examination period). If for any reason the access to this source code is required past the aforementioned deadline, feel free to contact me (Krzesimir Hyżyk) via email to resolve this issue.
 
 By accessing any file in this repository you hereby agree to uphold the Terms of Use outlined in the Disclaimer below:
 
